@@ -102,7 +102,8 @@ Active Kubernetes cluster context
 
 Or add to PowerShell profile:
 
-notepad $PROFILE
+notepad $PROFILE then add KubeRocket-v1.ps1 content
+
 ⚡ Example Workflow
 pod
 epod
