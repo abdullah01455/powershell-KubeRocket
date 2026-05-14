@@ -8,6 +8,11 @@ Built to simplify and accelerate everyday kubectl workflows
 Abdullah Almutaywia
 📧 mutaywia@hotmail.com
 
+
+
+<img width="778" height="933" alt="image" src="https://github.com/user-attachments/assets/86be37e5-ed62-4075-b578-6d57f8d38603" />
+
+
 ⚡ Overview
 
 KubeRocket is a PowerShell automation script that provides shortcuts, aliases, and interactive functions to manage Kubernetes resources faster and easier.
